@@ -1,13 +1,5 @@
 #EXTM3U 
-#PLAYLIST:TV Meu Tédio
-## 👩🏽‍💻 Editora: Helen Fernanda - Goiânia - Brasil 🇧🇷
-## 🔗 Dicas de EPG e aplicativos: www.meutedio.com.br/iptv
-## ▶️ Telegram: https://t.me/meutedio
-## 📧 Contato e 💰 Pix: meutedio@mail.com
-## 🆕 29-junho-2022 - Novos canais: Chive TV - Comet - Chicken Soup for The Soul - PBS Kids. Em A NOVIDADE você confere o grupo de cada um deles.
-## 🆕 28-junho-2022 - Novos canais Adult Swim no grupo Humor em Português: Last Stream on The Left // Off The Air (no entre limiar humor e horror) // Your Pretty Face is Going to Hell
-## 🆕 28-junho-2022 - Novo canal indiano: Flowers TV // Variedades em vários idiomas // EPG: https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml	
-## 🆕 28-junho-2022 - Confira mais no grupo A NOVIDADE.
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLAAQ34.png" group-title="A novidade",Amigo Secreto | somente nos cinemas
 https://video.twimg.com/ext_tw_video/1541903249497882626/pu/pl/1280x720/_5YQUk55TnShP8YH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLAAQ34.png" group-title="A novidade",Amigo Secreto | em várias salas do Brasil
